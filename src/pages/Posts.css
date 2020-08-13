@@ -1,0 +1,50 @@
+.Posts {
+    border: 4px solid black;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+}
+
+.Posts table, .Posts th, .Posts td {
+    border: 2px solid black;
+}
+
+.Posts th{
+    background-color: #bbbbbb;
+    border-bottom: 4px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.PostsByUser {
+    border: 4px solid green;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+}
+
+.PostsByUser table, .PostsByUser th, .PostsByUser td {
+    border: 2px solid green; 
+}
+
+.PostsByUser th{
+    background-color: #bbbbbb;
+    border-bottom: 4px solid green;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Comments {
+    border: 4px solid blue;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+}
+
+.Comments table, .Comments th, .Comments td {
+    border: 2px solid blue; 
+}
+
+.Comments th{
+    background-color: #bbbbbb;
+    border-bottom: 4px solid blue;
+    padding-left: 20px;
+    padding-right: 20px;
+}
